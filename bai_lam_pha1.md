@@ -3,7 +3,7 @@
 - **Mã đề:** 08
 - **Họ tên:** Trần Đức Tài
 - **Lớp:** CNTT3
-- **Link repository Pha1:**
+- **Link repository Pha1:** https://github.com/TranDucTaiCNTT3/HN-KS26-CNTT3-Ky_nang_promting_AI-Tran_Duc_Tai/blob/7be94878361016f04e873adbfd0e8b0e0dadd253/bai_lam_pha1.md
 
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
